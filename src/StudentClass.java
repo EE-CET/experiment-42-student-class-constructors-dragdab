@@ -10,7 +10,7 @@ class Student {
     }   
     
     public void printDetails() {
-        System.out.println("Name: " + name + " Roll No: " + rollNo);
+        System.out.println("Name: " + name + " Roll: " + rollNo);
     }
     
 }
